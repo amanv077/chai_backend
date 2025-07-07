@@ -1,0 +1,58 @@
+# Node modules
+node_modules/
+.pnpm/
+.pnp.*
+*.log
+
+# Logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+
+# Next.js build output
+.next/
+out/
+
+# TypeScript
+*.tsbuildinfo
+
+# Production
+build/
+dist/
+
+# Turborepo cache
+turbo/
+.cache/
+
+# Vercel
+.vercel/
+
+# Testing
+coverage/
+jest.config.js
+
+# Environment files
+.env*
+!.env.example
+
+# OS
+.DS_Store
+Thumbs.db
+
+# IDEs & editors
+.vscode/
+.idea/
+
+# Prisma
+prisma/migrations/
+prisma/dev.db
+
+# Storybook
+.storybook-out/
+
+# Others
+*.local
+*.swp
+*.tgz
+*.orig

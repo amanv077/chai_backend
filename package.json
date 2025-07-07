@@ -1,0 +1,19 @@
+{
+  "name": "chai",
+  "version": "1.0.0",
+  "description": "its a app",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [
+    "node",
+    "express"
+  ],
+  "author": "aman verma",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^17.0.1",
+    "express": "^5.1.0"
+  }
+}
